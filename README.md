@@ -4,7 +4,7 @@ I'm trying to connect work and passion, spending my time learning everything abo
 
 I share my learning process as tutorials on [Medium](https://medium.com/@geronimo7), the accompanying code and any other snippets which might be useful to others can be found here.
 
-### Tutorials and Repositories
+### 🚀 Tutorials and Repositories
 * 🛠️ [Finetune Microsoft's Phi-2](https://medium.com/@geronimo7/phinetuning-2-0-28a2be6de110), [code](https://github.com/geronimi73/phi2-finetune)
 * 🛠️ [Finetune Mamba](https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957), [code](https://github.com/geronimi73/mamba/tree/main)
 * 🛠️ [Finetune Llama2 and Mistral using QLoRA](https://medium.com/@geronimo7/finetuning-llama2-mistral-945f9c200611), [code](https://github.com/geronimi73/qlora-minimal)
@@ -16,7 +16,7 @@ I share my learning process as tutorials on [Medium](https://medium.com/@geronim
 * 🛠️ [Finetune Llama on podcast transripts with QLoRA](https://medium.com/@geronimo7/from-transcripts-to-ai-chat-an-experiment-with-the-lex-fridman-podcast-3248d216ec16), [code](https://github.com/g588928812/qlora)
 * 💅 [Use Stable Diffusion for sketch-guided image generation](https://medium.com/@geronimo7/sketch-guided-stable-diffusion-a-tutorial-fb25bc69ddb5), [code](https://github.com/geronimi73/SD-minimal)
 
-### Other Repositories
+### 💎 Other Repositories
 * [Needle in a haystack test for local LLMs](https://github.com/geronimi73/LLMTest_NeedleInAHaystack)
 * [FSDP multi-GPU training of Mamba](https://github.com/geronimi73/train-mamba-with-fsdp)
 * [Evaluate an LLMs ability to follow instructions](https://github.com/geronimi73/instruction-eval)
