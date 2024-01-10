@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m geronimo, a healthcare professional with a passion for AI.
 
-I'm trying to connect work and passion, spending my time learning everything about large language models (LLMs). I share my learning process as tutorials on [Medium](https://medium.com/@geronimo7).
+I'm trying to connect work and passion, spending my time learning everything about large language models (LLMs). 
 
-📫 How to reach me: [Twitter](https://twitter.com/Geronimo_AI) [Discord](https://discordapp.com/users/geronimi73/) [Hugging Face](https://huggingface.co/g-ronimo) 
+I share my learning process as tutorials on [Medium](https://medium.com/@geronimo7), the accompanying code and any other snippets which might be useful to others can be found here.
 
 ### Tutorials and Repositories
 * 🛠️ [Finetune Microsoft's Phi-2](https://medium.com/@geronimo7/phinetuning-2-0-28a2be6de110), [code](https://github.com/geronimi73/phi2-finetune)
@@ -22,4 +22,8 @@ I'm trying to connect work and passion, spending my time learning everything abo
 * [Evaluate an LLMs ability to follow instructions](https://github.com/geronimi73/instruction-eval)
 * [Multi-GPU inference with 🤗 accelerate](https://github.com/geronimi73/accelerate_tricks)
 * [Trial run of ReLoRA for low-resource continued pretraining of llama2-7b](https://github.com/geronimi73/ReLoRA_trial)
+
+### 📫 How to reach me
+[Twitter](https://twitter.com/Geronimo_AI) [Discord](https://discordapp.com/users/geronimi73/) [Hugging Face](https://huggingface.co/g-ronimo) 
+
   
