@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m geronimo, a healthcare professional with a passion for AI.
 
-I try to connect work and passion, currently spend my time on understanding LLMs. I share my learning process on [Medium](https://medium.com/@geronimo7), story code and any other maybe-useful snippets are found here.
+I'm trying to connect work and passion, currently spend my time on understanding LLMs. I share my learning process on [Medium](https://medium.com/@geronimo7), story code and other maybe-useful snippets are found here.
 
 ### 🚀 Tutorials and Repositories
 * 🛠️ [Finetune Microsoft's Phi-2](https://medium.com/@geronimo7/phinetuning-2-0-28a2be6de110), [code](https://github.com/geronimi73/phi2-finetune)
