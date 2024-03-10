@@ -1,6 +1,5 @@
-### 👋 Hi, I’m geronimo, a healthcare professional with a passion for AI.
-
-I'm trying to connect work and passion, currently spend my time on understanding LLMs. I share my learning process on [Medium](https://medium.com/@geronimo7), story code and other maybe-useful snippets are found here.
+### 👋 Hi, I’m geronimo
+i'm trying to understand LLMs, this is my journey so far
 
 ### 🚀 Tutorials and Repositories
 * 🛠️ [Finetune Microsoft's Phi-2](https://medium.com/@geronimo7/phinetuning-2-0-28a2be6de110), [code](https://github.com/geronimi73/phi2-finetune)
@@ -21,7 +20,6 @@ I'm trying to connect work and passion, currently spend my time on understanding
 * [Multi-GPU inference with 🤗 accelerate](https://github.com/geronimi73/accelerate_tricks)
 * [Trial run of ReLoRA for low-resource continued pretraining of llama2-7b](https://github.com/geronimi73/ReLoRA_trial)
 
-### 📫 How to reach me
 [Twitter](https://twitter.com/Geronimo_AI) [Hugging Face](https://huggingface.co/g-ronimo) 
 
   
