@@ -2,6 +2,8 @@
 i'm trying to understand LLMs, this is my journey so far
 
 ### 🚀 Tutorials and Repositories
+* ⚖️ [Evaluating LLMs with Semantic Similarity](https://medium.com/@geronimo7/semscore-evaluating-llms-with-semantic-similarity-2abf5c2fadb9), [code](https://github.com/geronimi73/semscore)
+* 🛠️ [Finetune TinyLlama and StableLM 2](https://medium.com/@geronimo7/tinyllama-1-1b-and-stable-lm-2-1-6b-cc0051d79be9), [code](https://github.com/geronimi73/TinyLlama-versus-StableLM2)
 * 🛠️ [Finetune Microsoft's Phi-2](https://medium.com/@geronimo7/phinetuning-2-0-28a2be6de110), [code](https://github.com/geronimi73/phi2-finetune)
 * 🛠️ [Finetune Mamba](https://medium.com/@geronimo7/mamba-a-shallow-dive-into-a-new-architecture-for-llms-54c70ade5957), [code](https://github.com/geronimi73/mamba/tree/main)
 * 🛠️ [Finetune Llama2 and Mistral using QLoRA](https://medium.com/@geronimo7/finetuning-llama2-mistral-945f9c200611), [code](https://github.com/geronimi73/qlora-minimal)
@@ -14,6 +16,7 @@ i'm trying to understand LLMs, this is my journey so far
 * 💅 [Use Stable Diffusion for sketch-guided image generation](https://medium.com/@geronimo7/sketch-guided-stable-diffusion-a-tutorial-fb25bc69ddb5), [code](https://github.com/geronimi73/SD-minimal)
 
 ### 💎 Other Repositories
+* [Collection of minimal scripts for 24GB GPUs](https://github.com/geronimi73/3090_shorts)
 * [Needle in a haystack test for local LLMs](https://github.com/geronimi73/LLMTest_NeedleInAHaystack)
 * [FSDP multi-GPU training of Mamba](https://github.com/geronimi73/train-mamba-with-fsdp)
 * [Evaluate an LLMs ability to follow instructions](https://github.com/geronimi73/instruction-eval)
