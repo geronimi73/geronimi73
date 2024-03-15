@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m geronimo
-i'm trying to understand LLMs, this is my journey so far
+trying to understand LLMs, this is my journey so far
 
 ### 🚀 Tutorials and Repositories
 * ⚖️ [Evaluating LLMs with Semantic Similarity](https://medium.com/@geronimo7/semscore-evaluating-llms-with-semantic-similarity-2abf5c2fadb9), [code](https://github.com/geronimi73/semscore)
