@@ -2,6 +2,8 @@
 trying to understand LLMs. This is my journey so far:
 
 ### 🚀 Tutorials and Repositories
+* A failed experiment with LISA: "Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning", [code](https://github.com/geronimi73/3090_shorts/blob/main/nb_LISA_llama2-7b.ipynb), [paper](https://arxiv.org/abs/2403.17919)
+* 🛠️ [Memory-efficient LLM Training with GaLore, yet another PEFT approach](https://medium.com/@geronimo7/llm-training-on-consumer-gpus-with-galore-d25075143cfb), [code](https://github.com/geronimi73/3090_shorts/blob/main/nb_galore_llama2-7b.ipynb)
 * ⚖️ [Evaluating LLMs with Semantic Similarity](https://medium.com/@geronimo7/semscore-evaluating-llms-with-semantic-similarity-2abf5c2fadb9), [code](https://github.com/geronimi73/semscore)
 * 🛠️ [Finetune TinyLlama and StableLM 2](https://medium.com/@geronimo7/tinyllama-1-1b-and-stable-lm-2-1-6b-cc0051d79be9), [code](https://github.com/geronimi73/TinyLlama-versus-StableLM2)
 * 🛠️ [Finetune Microsoft's Phi-2](https://medium.com/@geronimo7/phinetuning-2-0-28a2be6de110), [code](https://github.com/geronimi73/phi2-finetune)
