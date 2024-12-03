@@ -25,6 +25,4 @@ trying to understand LLMs. This is my journey so far:
 * [Multi-GPU inference with 🤗 accelerate](https://github.com/geronimi73/accelerate_tricks)
 * [Trial run of ReLoRA for low-resource continued pretraining of llama2-7b](https://github.com/geronimi73/ReLoRA_trial)
 
-[Twitter](https://twitter.com/Geronimo_AI) [Hugging Face](https://huggingface.co/g-ronimo) 
-
   
