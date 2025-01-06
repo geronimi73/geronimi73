@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m geronimo
-trying to understand LLMs. This is my journey so far:
+doing random stuff with neural networks. This is my journey so far:
 
 ### 🚀 Tutorials and Repositories
 * A failed experiment with LISA: "Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning", [code](https://github.com/geronimi73/3090_shorts/blob/main/nb_LISA_llama2-7b.ipynb), [paper](https://arxiv.org/abs/2403.17919)
