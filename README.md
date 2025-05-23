@@ -1,8 +1,8 @@
-### 👋 Hi, I’m geronimo
+### 👋 Hi, I’m Geronimo
 
-doing random stuff with neural networks. 
+I'm doing random stuff with neural networks.
 
-Below is a list of stuff I did. Got tired of updating it. If you're curious about what I'm up to currently, check [my blog](https://medium.com/@geronimo7).
+Here's a list of stuff I've done. I got tired of updating it though. If you're curious about what I'm up to currently, check [my blog](https://medium.com/@geronimo7).
 
 ### 🚀 Tutorials and Repositories
 * A failed experiment with LISA: "Layerwise Importance Sampling for Memory-Efficient Large Language Model Fine-Tuning", [code](https://github.com/geronimi73/3090_shorts/blob/main/nb_LISA_llama2-7b.ipynb), [paper](https://arxiv.org/abs/2403.17919)
