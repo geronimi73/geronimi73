@@ -2,4 +2,11 @@
 
 I'm doing random stuff with neural networks.
 
-If you're curious about what I'm up to currently, check [my blog](https://medium.com/@geronimo7).
+Model inference in the browser (Next.js apps):
+* [next-sam](https://github.com/geronimi73/next-sam) Image segmentation (SAM2)
+* [next-lama](https://github.com/geronimi73/next-lama) Inpainting (LaMa)
+* [next-voice](https://github.com/geronimi73/next-voice) Text-to-Speech (Kitten TTS)
+* [next-safedino](https://github.com/geronimi73/next-safedino) NSFW image detection (based on Dinov3)
+
+[My blog](https://medium.com/@geronimo7)
+
